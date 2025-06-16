@@ -138,6 +138,7 @@ def get_note_from_fingers(fingers, landmarks=None):
 
 # Streamlit app
 st.title("🎹 Piano Virtual dengan MediaPipe")
+st.write("Dibuat oleh: **Alif Al Husaini - NPM 140810220036**")
 st.write("Gunakan tangan di depan kamera untuk memainkan nada dengan mapping.")
 
 # Sidebar untuk pengaturan
